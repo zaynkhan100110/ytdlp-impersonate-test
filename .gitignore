@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+impersonate-results/
+results-*/
+*.sqlite
+*.db
+cookies.txt
