@@ -5,7 +5,7 @@ A command-line tool that discovers and tests the browser impersonation profiles 
 
 It helps identify which impersonation profiles can successfully extract metadata from a given media URL.
 
-The tool works with any URL supported by yt-dlp. It is not limited to Rumble.
+
 
 **Repository:** https://github.com/zaynkhan100110/ytdlp-impersonate-test
 
