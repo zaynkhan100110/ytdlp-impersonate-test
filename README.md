@@ -474,9 +474,7 @@ Use reasonable delays and avoid repeatedly sending large batches of requests if 
 
 - Browser cookies can contain active login sessions.
 - Do not share cookie databases or cookie exports.
-- Do not commit credentials, cookies, or private proxy URLs to Git.
 - Use trusted proxies only.
-- Reports may contain media titles and URLs. Review them before publishing.
 - The tool does not intentionally write browser cookie values into its reports.
 
 ---
